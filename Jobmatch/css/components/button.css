@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color: #0040D0;
+	padding: 8px 40px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Barlow';
+}
+
+.btn-orange {
+	background-color: #FF7F00;
+	padding: 8px 32px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Barlow';
+}
